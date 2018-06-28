@@ -1,1 +1,1 @@
-print('new new hello python & git rock')
+print('new ssnew hello python & git rock')
